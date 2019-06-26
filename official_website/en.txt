@@ -378,7 +378,7 @@ Validator node must have a minimum of 90% uptime.
 Must fully support daemon upgrades.
 Must participate in on-chain governance.
 Physical servers are recommended.
-The first 10 people to meet the criteria above are eligible for 300,000 RAND per person.
+The first 10 people to meet the criteria above are eligible for 5,000,000 RAND per person.
 If there are over 10 applicants, the first 10 to register will be eligible for rewards.
 
 ### 공식 웹사이트 영문 번역 테스트넷 보상 프로그램 미션 ###
@@ -520,7 +520,7 @@ Must be able to prove the meetup with a photo.
 Rewards will be given to the 20 contributors who complete the mission (in the order of registration).
 
 ### 테스트넷 보상프로그램 운영 지원 테스트넷 보상 프로그램 미션 ###
-Operage and manage the DecentRandom testnet reward program.
+Operate and manage the DecentRandom testnet reward program.
 Manage email inquiries within 3 working days. (If there is an excessive amount of inquiries delays can be understood, but must be communicated)
 Verify participation in the reward program and evidence files.
 Notify of changes in the program.
